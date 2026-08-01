@@ -4,4 +4,10 @@
 #### and typically conclude
 ##### with a clear thesis 
 ###### statement
-
+######## While a description 
+######### focuses on specific 
+concrete attributes, 
+features, and processes answering "what it is," 
+an introduction provides the broader 
+context and "why it
+matters".
